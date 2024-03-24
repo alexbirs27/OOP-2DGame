@@ -1,0 +1,4 @@
+﻿  Game.cpp
+D:\POO\Game.cpp(21,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\POO\Game.cpp(22,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  POO.vcxproj -> D:\POO\x64\Debug\POO.exe
