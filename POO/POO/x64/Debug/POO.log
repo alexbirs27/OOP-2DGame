@@ -1,0 +1,365 @@
+﻿  Collider.cpp
+D:\POO\Collider.h(17,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Collider.cpp')
+  
+D:\POO\Collider.h(17,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Collider.cpp')
+  
+D:\POO\Collider.h(23,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Collider.cpp')
+  
+D:\POO\Collider.h(24,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Collider.cpp')
+  
+D:\POO\Collider.h(25,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Collider.cpp')
+  
+D:\POO\Collider.h(25,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Collider.cpp')
+  
+D:\POO\Collider.h(31,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Collider.cpp')
+  
+D:\POO\Collider.h(32,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Collider.cpp')
+  
+D:\POO\Collider.h(33,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Collider.cpp')
+  
+D:\POO\Collider.h(33,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Collider.cpp')
+  
+D:\POO\Collider.h(39,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Collider.cpp')
+  
+D:\POO\Collider.h(40,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Collider.cpp')
+  
+D:\POO\Collider.h(41,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Collider.cpp')
+  
+D:\POO\Collider.h(41,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Collider.cpp')
+  
+D:\POO\Collider.h(47,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Collider.cpp')
+  
+D:\POO\Collider.h(48,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Collider.cpp')
+  
+D:\POO\Collider.h(49,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Collider.cpp')
+  
+D:\POO\Collider.h(49,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Collider.cpp')
+  
+  Game.cpp
+D:\POO\Collider.h(14,11): error C2061: syntax error: identifier 'GameObject'
+  (compiling source file 'Game.cpp')
+  
+D:\POO\Collider.h(17,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+D:\POO\Collider.h(17,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+D:\POO\Collider.h(23,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+D:\POO\Collider.h(24,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+D:\POO\Collider.h(25,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+D:\POO\Collider.h(25,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+D:\POO\Collider.h(31,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+D:\POO\Collider.h(32,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+D:\POO\Collider.h(33,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+D:\POO\Collider.h(33,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+D:\POO\Collider.h(39,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+D:\POO\Collider.h(40,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+D:\POO\Collider.h(41,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+D:\POO\Collider.h(41,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+D:\POO\Collider.h(47,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+D:\POO\Collider.h(48,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+D:\POO\Collider.h(49,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+D:\POO\Collider.h(49,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Game.cpp')
+  
+D:\POO\Game.cpp(11,6): error C2040: 'map': 'Map *' differs in levels of indirection from 'Map'
+D:\POO\Game.cpp(78,32): error C2100: you cannot dereference an operand of type 'Map'
+  GameObject.cpp
+D:\POO\Collider.h(17,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'GameObject.cpp')
+  
+D:\POO\Collider.h(17,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'GameObject.cpp')
+  
+D:\POO\Collider.h(23,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'GameObject.cpp')
+  
+D:\POO\Collider.h(24,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'GameObject.cpp')
+  
+D:\POO\Collider.h(25,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'GameObject.cpp')
+  
+D:\POO\Collider.h(25,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'GameObject.cpp')
+  
+D:\POO\Collider.h(31,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'GameObject.cpp')
+  
+D:\POO\Collider.h(32,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'GameObject.cpp')
+  
+D:\POO\Collider.h(33,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'GameObject.cpp')
+  
+D:\POO\Collider.h(33,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'GameObject.cpp')
+  
+D:\POO\Collider.h(39,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'GameObject.cpp')
+  
+D:\POO\Collider.h(40,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'GameObject.cpp')
+  
+D:\POO\Collider.h(41,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'GameObject.cpp')
+  
+D:\POO\Collider.h(41,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'GameObject.cpp')
+  
+D:\POO\Collider.h(47,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'GameObject.cpp')
+  
+D:\POO\Collider.h(48,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'GameObject.cpp')
+  
+D:\POO\Collider.h(49,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'GameObject.cpp')
+  
+D:\POO\Collider.h(49,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'GameObject.cpp')
+  
+D:\POO\GameObject.cpp(12,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\POO\GameObject.cpp(12,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\POO\GameObject.cpp(23,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\POO\GameObject.cpp(25,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\POO\GameObject.cpp(26,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\POO\GameObject.cpp(26,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+D:\POO\Collider.h(14,11): error C2061: syntax error: identifier 'GameObject'
+  (compiling source file 'main.cpp')
+  
+D:\POO\Collider.h(17,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\POO\Collider.h(17,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\POO\Collider.h(23,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\POO\Collider.h(24,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\POO\Collider.h(25,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\POO\Collider.h(25,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\POO\Collider.h(31,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\POO\Collider.h(32,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\POO\Collider.h(33,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\POO\Collider.h(33,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\POO\Collider.h(39,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\POO\Collider.h(40,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\POO\Collider.h(41,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\POO\Collider.h(41,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\POO\Collider.h(47,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\POO\Collider.h(48,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\POO\Collider.h(49,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\POO\Collider.h(49,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  Map.cpp
+D:\POO\Collider.h(14,11): error C2061: syntax error: identifier 'GameObject'
+  (compiling source file 'Map.cpp')
+  
+D:\POO\Collider.h(21,46): error C2061: syntax error: identifier 'Map'
+  (compiling source file 'Map.cpp')
+  
+D:\POO\Collider.h(29,48): error C2061: syntax error: identifier 'Map'
+  (compiling source file 'Map.cpp')
+  
+D:\POO\Collider.h(37,48): error C2061: syntax error: identifier 'Map'
+  (compiling source file 'Map.cpp')
+  
+D:\POO\Collider.h(45,49): error C2061: syntax error: identifier 'Map'
+  (compiling source file 'Map.cpp')
+  
+D:\POO\Collider.h(17,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Map.cpp')
+  
+D:\POO\Collider.h(17,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Map.cpp')
+  
+D:\POO\Collider.h(23,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Map.cpp')
+  
+D:\POO\Collider.h(24,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Map.cpp')
+  
+D:\POO\Collider.h(25,7): error C2065: 'map': undeclared identifier
+  (compiling source file 'Map.cpp')
+  
+D:\POO\Collider.h(31,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Map.cpp')
+  
+D:\POO\Collider.h(32,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Map.cpp')
+  
+D:\POO\Collider.h(33,7): error C2065: 'map': undeclared identifier
+  (compiling source file 'Map.cpp')
+  
+D:\POO\Collider.h(39,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Map.cpp')
+  
+D:\POO\Collider.h(40,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Map.cpp')
+  
+D:\POO\Collider.h(41,7): error C2065: 'map': undeclared identifier
+  (compiling source file 'Map.cpp')
+  
+D:\POO\Collider.h(47,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Map.cpp')
+  
+D:\POO\Collider.h(48,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Map.cpp')
+  
+D:\POO\Collider.h(49,7): error C2065: 'map': undeclared identifier
+  (compiling source file 'Map.cpp')
+  
+D:\POO\GameObject.h(8,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Map.cpp')
+  
+D:\POO\GameObject.h(8,5): error C2146: syntax error: missing ';' before identifier 'map'
+  (compiling source file 'Map.cpp')
+  
+D:\POO\GameObject.h(15,54): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Map.cpp')
+  
+D:\POO\GameObject.h(15,54): error C2143: syntax error: missing ',' before '&'
+  (compiling source file 'Map.cpp')
+  
+D:\POO\Map.cpp(47,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  TextureManager.cpp
+D:\POO\Collider.h(14,11): error C2061: syntax error: identifier 'GameObject'
+  (compiling source file 'TextureManager.cpp')
+  
+D:\POO\Collider.h(17,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'TextureManager.cpp')
+  
+D:\POO\Collider.h(17,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'TextureManager.cpp')
+  
+D:\POO\Collider.h(23,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'TextureManager.cpp')
+  
+D:\POO\Collider.h(24,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'TextureManager.cpp')
+  
+D:\POO\Collider.h(25,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'TextureManager.cpp')
+  
+D:\POO\Collider.h(25,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'TextureManager.cpp')
+  
+D:\POO\Collider.h(31,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'TextureManager.cpp')
+  
+D:\POO\Collider.h(32,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'TextureManager.cpp')
+  
+D:\POO\Collider.h(33,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'TextureManager.cpp')
+  
+D:\POO\Collider.h(33,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'TextureManager.cpp')
+  
+D:\POO\Collider.h(39,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'TextureManager.cpp')
+  
+D:\POO\Collider.h(40,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'TextureManager.cpp')
+  
+D:\POO\Collider.h(41,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'TextureManager.cpp')
+  
+D:\POO\Collider.h(41,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'TextureManager.cpp')
+  
+D:\POO\Collider.h(47,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'TextureManager.cpp')
+  
+D:\POO\Collider.h(48,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'TextureManager.cpp')
+  
+D:\POO\Collider.h(49,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'TextureManager.cpp')
+  
+D:\POO\Collider.h(49,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'TextureManager.cpp')
+  
+  Vector2D.cpp
+  Generating Code...
