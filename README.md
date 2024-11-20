@@ -2,7 +2,7 @@
 
 # Nume Proiect
 
-Proiectul "Mini_Golf"(o sa schimb numele) este un joc simplu în care utilizatorul trebuie să navigheze un personaj dintr-o poziție de start până la o poziție finală pe o hartă generată aleator.
+Proiectul "Mini_Golf" este un joc simplu în care utilizatorul trebuie să navigheze un personaj dintr-o poziție de start până la o poziție finală pe o hartă generată aleator.
 
 ## Descriere
 
